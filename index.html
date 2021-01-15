@@ -1,0 +1,156 @@
+<!Doctype html>
+<html lang="ko">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <!--    <nav class="navbar navbar-expand-lg navbar-light bg-light">-->
+    <!--        <a class="navbar-brand" href="#">Navbar w/ text</a>-->
+    <!--        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"-->
+    <!--                aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">-->
+    <!--            <span class="navbar-toggler-icon"></span>-->
+    <!--        </button>-->
+    <!--        <div class="collapse navbar-collapse" id="navbarText">-->
+    <!--            <ul class="navbar-nav mr-auto">-->
+    <!--                <li class="nav-item active">-->
+    <!--                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>-->
+    <!--                </li>-->
+    <!--                <li class="nav-item">-->
+    <!--                    <a class="nav-link" href="#">Features</a>-->
+    <!--                </li>-->
+    <!--                <li class="nav-item">-->
+    <!--                    <a class="nav-link" href="#">Pricing</a>-->
+    <!--                </li>-->
+    <!--            </ul>-->
+    <!--            <span class="navbar-text">-->
+    <!--      Navbar text with an inline element-->
+    <!--    </span>-->
+    <!--        </div>-->
+    <!--    </nav>-->
+    <!-- JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+
+    <!-- 구글폰트 -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Gugi&display=swap" rel="stylesheet">
+
+
+    <title>AMC</title>
+
+    <!-- style -->
+    <style type="text/css">
+
+        * {
+            font-family: 'Gugi', cursive;
+            margin: 10px auto;
+            width:300px;
+            height:60px;
+        }
+
+        .wrap {
+            height: 100%;
+            text-align: center;
+        }
+
+        .wrap::before {
+            content: "";
+            display: inline-block;
+            width: 1px;
+            height: 100%;
+            margin-right: 0;
+            vertical-align: middle;
+        }
+
+        .navbar navbar-light bg-light {
+            color: white;
+            width: 300px;
+            height: 200px;
+
+            border-radius: 10px;
+            text-align: center;
+            margin-left:auto;
+            margin-right: auto;
+            padding: 100px 0px;
+        }
+
+        .box {
+            display: inline-block;
+            width:300px;
+            height:300px;
+            vertical-align: middle;
+        }
+    </style>
+    <script>
+
+function searchbook(){
+    $.ajax({
+        type: "GET",
+        url: "/book",
+        data: {},
+        success: function (response) {
+            if (response["result"] == "success") {
+                alert(response["msg"]);
+            }
+            }
+
+
+    })
+}
+
+
+        // function postArticle() {
+        //     $.ajax({
+        //         type: "POST",
+        //         url: "/memo",
+        //         data: {},
+        //         success: function (response) { // 성공하면
+        //             if (response["result"] == "success") {
+        //                 alert(response["msg"]);
+        //             }
+        //         }
+        //     })
+        // }
+        //
+        // function showArticles() {
+        //     $.ajax({
+        //         type: "GET",
+        //         url: "/memo",
+        //         data: {},
+        //         success: function (response) {
+        //             if (response["result"] == "success") {
+        //                 alert(response["msg"]);
+        //             }
+        //         }
+        //     })
+        // }
+        //
+        // function makeCard(url, title, desc, comment, image) {
+        //
+        // }
+    </script>
+
+</head>
+
+<body>
+<div class="wrap">
+    <div class="box">
+        <h1 class="display-4">AMC</h1>
+        <p class="lead">Auto Making Citation</p>
+
+        <nav class="navbar navbar-light bg-light">
+            <form class="form-inline">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+            </form>
+        </nav>
+    </div>
+</div>
+</body>
+
+</html>

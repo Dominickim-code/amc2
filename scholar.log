@@ -1,0 +1,448 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:33:05] "[33mGET /mypage HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:33:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:33:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:33:37] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:33:37] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:33:37] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:33:44] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:33:45] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:33:45] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:33:45] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:33:46] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:33:46] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:33:46] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:34:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:34:51] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:34:51] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:34:52] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:34:52] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:34:52] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:34:52] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:35:36] "[33mGET /tprac HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:35:42] "[35m[1mGET /prac HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:35:48] "[37mGET /prac?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:35:49] "[37mGET /prac?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:35:49] "[37mGET /prac?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:35:49] "[37mGET /prac?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:35:49] "[37mGET /prac?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:35:49] "[37mGET /prac?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:38:49] "[37mGET /prac HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:39:24] "[37mGET /prac HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:39:25] "[37mGET /prac HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:41:10] "[37mGET /prac HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:41:16] "[37mGET /prac HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 15:41:18] "[37mGET /prac HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 16:03:03] "[37mGET /prac HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 16:03:20] "[37mGET /prac HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 16:04:44] "[37mGET /prac HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Jan/2021 16:25:38] "[37mGET /book?title_give=search_pubs HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 00:36:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 00:36:21] "[37mGET /test?title_give=º½³¯Àº°£´Ù HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 14:32:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 14:32:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 14:32:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 14:42:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 14:42:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 14:47:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 14:47:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 14:47:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 14:55:03] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 14:55:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 14:55:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 14:56:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 14:56:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 14:56:15] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:00:17] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:02:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:03:00] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:04:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:04:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:04:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:04:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:08:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:08:14] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:08:14] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:08:16] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:08:18] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:09:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:09:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:09:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:10:00] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:10:55] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:10:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:10:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:12:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:13:03] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:14:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:14:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:16:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:19:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:21:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:22:02] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:22:30] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:22:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:23:21] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:23:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:23:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:25:30] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:25:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:25:37] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:25:37] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:25:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:25:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:25:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:26:00] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:28:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:28:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:29:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:29:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:33:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:33:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:33:47] "[35m[1mGET /book HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:33:53] "[37mGET /book?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:33:53] "[37mGET /book?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:33:53] "[37mGET /book?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:33:53] "[37mGET /book?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:33:54] "[37mGET /book?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:33:54] "[37mGET /book?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:34:52] "[35m[1mGET /book?keyword=Manish%20Singh,%20Rutgers HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:34:57] "[37mGET /book?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:34:57] "[37mGET /book?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:34:57] "[37mGET /book?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:34:58] "[37mGET /book?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:34:58] "[37mGET /book?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:35:21] "[35m[1mGET /book?keyword=%27Manish%20Singh,%20Rutgers%27 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:35:22] "[37mGET /book?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:35:22] "[37mGET /book?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:35:22] "[37mGET /book?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:35:22] "[37mGET /book?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:35:22] "[37mGET /book?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:36:09] "[37mGET /book?keyword=%27Manish%20Singh,%20Rutgers%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:36:57] "[37mGET /book?keyword=temp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:37:34] "[37mGET /book?search=temp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:37:51] "[37mGET /book?search=%27Manish%20Singh,%20Rutgers%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:40:49] "[37mGET /book?search=%27Manish%20Singh,%20Rutgers%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:41:11] "[37mGET /book?search=%27Manish%20Singh,%20Rutgers%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:41:34] "[35m[1mGET /book?search=%27Manish%20Singh,%20Rutgers%27 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:41:40] "[37mGET /book?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:41:41] "[37mGET /book?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:41:41] "[37mGET /book?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:41:41] "[37mGET /book?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:41:41] "[37mGET /book?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:41:41] "[37mGET /book?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:43:12] "[35m[1mGET /book?search=%27Manish%20Singh,%20Rutgers%27 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:43:18] "[37mGET /book?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:43:18] "[37mGET /book?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:43:18] "[37mGET /book?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:43:19] "[37mGET /book?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:43:19] "[37mGET /book?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:43:19] "[37mGET /book?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:44:02] "[35m[1mGET /book?search=%27Manish%20Singh,%20Rutgers%27 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:44:07] "[37mGET /book?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:44:07] "[37mGET /book?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:44:07] "[37mGET /book?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:44:08] "[37mGET /book?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:44:08] "[37mGET /book?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:44:08] "[37mGET /book?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:45:06] "[37mGET /book?search=%27Manish%20Singh,%20Rutgers%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:45:41] "[37mGET /book?search=%27Manish%20Singh,%20Rutgers%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:55:41] "[37mGET /book?search=%27Manish%20Singh,%20Rutgers%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 15:57:10] "[37mGET /book?search=%27Manish%20Singh,%20Rutgers%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 16:01:48] "[37mGET /book?search=%27Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 16:06:14] "[37mGET /book?search=%27Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 16:06:56] "[37mGET /book?search=%27Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 16:47:36] "[37mGET /book?search=%27Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\18550\\Desktop\\sparta\\my_project\\AMC\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 16:48:33] "[37mGET /book?search=%27Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 16:49:01] "[37mGET /book?search=%27Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 16:50:17] "[37mGET /book?search=%27Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 16:54:52] "[37mGET /book?search=%27Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 16:55:17] "[37mGET /book?search=%27Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2021 16:56:02] "[37mGET /book?search=%27Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-640-847
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:34:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:35:02] "[37mGET /book?search=%27Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects%27 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:35:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:43:35] "[35m[1mGET /book?search=%27Perception%20of HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:43:35] "[33mGET /book?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:43:35] "[33mGET /book?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:43:35] "[33mGET /book?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:43:36] "[33mGET /book?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:45:40] "[35m[1mGET /book?search=%27Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects%27 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:45:40] "[33mGET /book?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:45:40] "[33mGET /book?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:45:40] "[33mGET /book?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:46:02] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:47:20] "[35m[1mGET /book?search=%27Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects%27 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:47:20] "[33mGET /book?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:47:20] "[33mGET /book?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 15:47:21] "[33mGET /book?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 404 -
